@@ -1,1 +1,1 @@
-# MyApp
+Do not forget to "npm install" at the start of a project, do change directory (cd) into ClientApp folder and run the install in there. 
